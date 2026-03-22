@@ -10,19 +10,20 @@ Each repository has its own dedicated documentation page.
 
 ## 📦 Repositories
 
-* [djangoplay-site](https://docs.djangoplay.org/website)
-* [issuetracker](https://docs.djangoplay.org/issuetracker)
-* [djangoplay-cli](https://docs.djangoplay.org/cli)
-* [djangoplay-web](https://docs.djangoplay.org/webapp)
+* [DjangoPlay Website](https://docs.djangoplay.org/website)
+* [DjangoPlay Web Application](https://docs.djangoplay.org/webapp)
+* [DjangoPlay CLI Tool](https://docs.djangoplay.org/cli)
+* [DjangoPlay Integration](https://docs.djangoplay.org/issuetracker)
 
 ---
 
 ## 🔗 Source Repositories (GitLab)
 
 * `djangoplay/djangoplay-site`
-* `binaryfleet/issuetracker`
-* `djangoplay/djangoplay-cli`
 * `djangoplay/djangoplay-web`
+* `djangoplay/djangoplay-cli`
+* `binaryfleet/issuetracker`
+
 
 ---
 
